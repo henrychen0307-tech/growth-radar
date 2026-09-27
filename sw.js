@@ -1,4 +1,4 @@
-const CACHE_NAME = "growth-radar-v1";
+const CACHE_NAME = "growth-radar-v2";
 
 const FILES_TO_CACHE = [
   "./",
